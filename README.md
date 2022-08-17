@@ -1,5 +1,7 @@
 ## aws-embedded-metrics
 
+Adding test string for test commit
+
 ![](https://codebuild.us-west-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiNFp3emNQV0dUbWg5bHBqbXZsMjlOY0dZN0xFTlc3aVhQV1dnVW1uS1kxU3FINlpmRTlIYjNQdHRkcVVvM1RNK3ZLQ25qRHZkK1pBTFIxWFUwaU1NcktjPSIsIml2UGFyYW1ldGVyU3BlYyI6InFzblFPZGgzWXF2V2V5OFYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
 [![](https://img.shields.io/maven-central/v/software.amazon.cloudwatchlogs/aws-embedded-metrics)](https://search.maven.org/artifact/software.amazon.cloudwatchlogs/aws-embedded-metrics)
 
